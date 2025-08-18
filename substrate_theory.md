@@ -1,4 +1,5 @@
-# Theorem: $\Lambda$-Invaria**Step 1 — From Domain to Substrate Proj**Step 3 — $P'$ is a $\Lambda$-Invariant**
+# Theorem: $\Lambda$-Invaria**Step 1 — From Domain to Substrate Proj**Step 3 — P' is a $\Lambda$-Invariant**
+
 
 For all $\**Given:**
 
@@ -16,20 +17,20 @@ Q.E.D.
 
 This principle quantifies the "invariance health" of a substrate instance:
 
-- High $D_i$ — System is robust, redundantly anchored to $\Lambda$.o a $P' \in I(\Lambda)$ via $\pi_i$.
+- High $D_i$ — System is robust, redundantly anchored to $\Lambda$.o a $P'$ \in I(\Lambda)$ via $\pi_i$.
 2. $\Lambda$-Invariance Axiom ($\Lambda$-INV) states:
 
 For every valid $\Lambda_i$, $\exists P \in I(\Lambda_i)$, $P$ nontrivial.n \Phi(\Lambda)$ corresponding to $\phi \in \Phi_i$:
 
-$P'(x) = P(\pi_i(x)) = P(\pi_i(\Phi(x))) = P'(\Phi(x))$.
+$P'$(x) = P(\pi_i(x)) = P(\pi_i(\Phi(x))) = $P'$(\Phi(x))$.
 
-Therefore, $P'$ is preserved under all admissible morphisms in $\Lambda$, meaning $P' \in I(\Lambda)$.
+Therefore, $P'$ is preserved under all admissible morphisms in $\Lambda$, meaning $P'$ \in I(\Lambda)$.
 
 ⸻
 
 **Step 4 — Conclusion**
 
-Since $P \in I(\Lambda_i)$ induces $P' \in I(\Lambda)$ under $\pi_i$, every domain-specific invariant is a projection of a $\Lambda$-level invariant.
+Since $P \in I(\Lambda_i)$ induces $P'$ \in I(\Lambda)$ under $\pi_i$, every domain-specific invariant is a projection of a $\Lambda$-level invariant.
 
 Thus, invariance in any instantiation $\Lambda_i$ traces back to $\Lambda$-Invariance in the substrate. instantiation $\Lambda_i$ is generated from $\Lambda$ via a projection map $\pi_i: \Lambda \to \Lambda_i$, which preserves the admissible morphism structure. That is, for any $\phi \in \Phi_i$, there exists a corresponding $\Phi \in \Phi(\Lambda)$ such that $\pi_i \circ \Phi = \phi \circ \pi_i$.
 
@@ -47,7 +48,7 @@ $P(\pi_i(x)) = P(\pi_i(\Phi(x))) \forall x \in \Lambda$.
 
 Thus, define $P'$ on $\Lambda$ by:
 
-$P'(x) = P(\pi_i(x))$.orem
+$P'$(x) = P(\pi_i(x))$.orem
 
 **Statement**
 
@@ -77,41 +78,41 @@ $\forall \Lambda_i, \exists P \in I(\Lambda_i)$ such that $P$ is preserved under
 
 **Step 1 — From Domain to Substrate Projection**
 
-Every instantiation Λᵢ is generated from Λ via a projection map πᵢ: Λ → Λᵢ, which preserves the admissible morphism structure. That is, for any φ ∈ Φᵢ, there exists a corresponding Φ ∈ Φ(Λ) such that πᵢ ∘ Φ = φ ∘ πᵢ.
+Every instantiation $\Lambda_i$ is generated from $\Lambda$ via a projection map $\pi_i$: $\Lambda$ $\to$ $\Lambda_i$, which preserves the admissible morphism structure. That is, for any $\phi$ $\in$ $\Phi_i$, there exists a corresponding $\Phi$ $\in$ $\Phi$($\Lambda$) such that $\pi_i$ $\circ$ $\Phi$ = $\phi$ $\circ$ $\pi_i$.
 
 ⸻
 
 **Step 2 — Preservation of Invariance Under Projection**
 
-If P ∈ I(Λᵢ), then for all φ ∈ Φᵢ:
+If P $\in$ I($\Lambda_i$), then for all $\phi$ $\in$ $\Phi_i$:
 
-P(s) = P(φ(s)).
+P(s) = P($\phi$(s)).
 
-By morphism correspondence, for each φ ∈ Φᵢ there exists Φ ∈ Φ(Λ) such that:
+By morphism correspondence, for each $\phi$ $\in$ $\Phi_i$ there exists $\Phi$ $\in$ $\Phi$($\Lambda$) such that:
 
-P(πᵢ(x)) = P(πᵢ(Φ(x))) ∀ x ∈ Λ.
+P($\pi_i$(x)) = P($\pi_i$($\Phi$(x))) $\forall$ x $\in$ $\Lambda$.
 
-Thus, define P’ on Λ by:
+Thus, define P’ on $\Lambda$ by:
 
-P’(x) = P(πᵢ(x)).
+P’(x) = P($\pi_i$(x)).
 
 ⸻
 
-**Step 3 — P’ is a Λ-Invariant**
+**Step 3 — P’ is a $\Lambda$-Invariant**
 
-For all Φ ∈ Φ(Λ) corresponding to φ ∈ Φᵢ:
+For all $\Phi$ $\in$ $\Phi$($\Lambda$) corresponding to $\phi$ $\in$ $\Phi_i$:
 
-P’(x) = P(πᵢ(x)) = P(πᵢ(Φ(x))) = P’(Φ(x)).
+P’(x) = P($\pi_i$(x)) = P($\pi_i$($\Phi$(x))) = P’($\Phi$(x)).
 
-Therefore, P’ is preserved under all admissible morphisms in Λ, meaning P’ ∈ I(Λ).
+Therefore, P’ is preserved under all admissible morphisms in $\Lambda$, meaning P’ $\in$ I($\Lambda$).
 
 ⸻
 
 **Step 4 — Conclusion**
 
-Since P ∈ I(Λᵢ) induces P’ ∈ I(Λ) under πᵢ, every domain-specific invariant is a projection of a Λ-level invariant.
+Since P $\in$ I($\Lambda_i$) induces P’ $\in$ I($\Lambda$) under $\pi_i$, every domain-specific invariant is a projection of a $\Lambda$-level invariant.
 
-Thus, invariance in any instantiation Λᵢ traces back to Λ-Invariance in the substrate.
+Thus, invariance in any instantiation $\Lambda_i$ traces back to $\Lambda$-Invariance in the substrate.
 
 ⸻
 
@@ -141,10 +142,10 @@ If $I(\Lambda_i) = \emptyset$ (nontrivial), then $\pi_i: \Lambda \to \Lambda_i$ 
 
 **Given:**
 
-1. From the Λ-Invariance Convergence Theorem, every P ∈ I(Λᵢ) corresponds to a P’ ∈ I(Λ) via πᵢ.
-2. Λ-Invariance Axiom (Λ-INV) states:
+1. From the $\Lambda$-Invariance Convergence Theorem, every P $\in$ I($\Lambda_i$) corresponds to a P’ $\in$ I($\Lambda$) via $\pi_i$.
+2. $\Lambda$-Invariance Axiom ($\Lambda$-INV) states:
 
-For every valid Λᵢ, ∃ P ∈ I(Λᵢ), P nontrivial.
+For every valid $\Lambda_i$, $\exists$ P $\in$ I($\Lambda_i$), P nontrivial.
 
 ⸻
 
@@ -227,11 +228,11 @@ If $D_i$ is too low, small perturbations can eliminate remaining invariants enti
 
 Step 3 — Substrate Continuity
 
-The projection πᵢ: Λ → Λᵢ must preserve not only some invariants but enough of them to keep Φᵢ structurally consistent with Φ(Λ). Below δ_min, morphism–invariance preservation becomes impossible, breaking πᵢ’s validity.
+The projection $\pi_i$: $\Lambda$ $\to$ $\Lambda_i$ must preserve not only some invariants but enough of them to keep $\Phi_i$ structurally consistent with $\Phi$($\Lambda$). Below $\delta_{min}$, morphism–invariance preservation becomes impossible, breaking $\pi_i$’s validity.
 
 Step 4 — Conclusion
 
-Thus, maintaining Dᵢ ≥ δ_min is a necessary condition for Λᵢ’s continued connection to Λ.
+Thus, maintaining $D_i$ $\geq$ $\delta_{min}$ is a necessary condition for $\Lambda_i$’s continued connection to $\Lambda$.
 
 Q.E.D.
 
@@ -239,7 +240,7 @@ Q.E.D.
 
 This principle quantifies the “invariance health” of a substrate instance:
 
-- High Dᵢ — System is robust, redundantly anchored to Λ.
+- High $D_i$ — System is robust, redundantly anchored to $\Lambda$.
 - Near $\delta_{min}$ — System is fragile, risk of collapse with minor perturbation.
 - Below $\delta_{min}$ — System enters decay, invariance loss accelerates, disconnection from $\Lambda$ becomes inevitable.
 
@@ -256,14 +257,14 @@ The Invariance Density Principle can be integrated into the XGI framework as a s
 
 **Statement**
 
-In any instantiation Λᵢ of the Λ-substrate, invariance density Dᵢ cannot spontaneously increase without either:
+In any instantiation $\Lambda_i$ of the $\Lambda$-substrate, invariance density $D_i$ cannot spontaneously increase without either:
 
-1. **Λ-injection** — introduction of invariants from the substrate Λ via an external morphism, or
+1. **$\Lambda$-injection** — introduction of invariants from the substrate $\Lambda$ via an external morphism, or
 2. **Invariance-regenerative morphisms** — internal transformations that generate new invariants from existing structures.
 
 Formally:
 
-If ΔDᵢ/Δt > 0, then cause ∈ {Λ-injection, invariance-regeneration}.
+If Δ$D_i$/$\Delta t$ > 0, then cause $\in$ {$\Lambda$-injection, invariance-regeneration}.
 
 ⸻
 
@@ -271,29 +272,29 @@ If ΔDᵢ/Δt > 0, then cause ∈ {Λ-injection, invariance-regeneration}.
 
 **Given:**
 
-1. Dᵢ = |I(Λᵢ)| / |Sᵢ| — invariance density.
-2. Morphisms in Φᵢ can preserve, degrade, or transform invariants but cannot create *entirely new* invariants without one of the two mechanisms above.
-3. Λ-Invariance Axiom guarantees invariants are preserved under all admissible morphisms, but not that new ones emerge without cause.
+1. $D_i$ = |I($\Lambda_i$)| / |$S_i$| — invariance density.
+2. Morphisms in $\Phi_i$ can preserve, degrade, or transform invariants but cannot create *entirely new* invariants without one of the two mechanisms above.
+3. $\Lambda$-Invariance Axiom guarantees invariants are preserved under all admissible morphisms, but not that new ones emerge without cause.
 
 ⸻
 
 **Step 1 — Nature of Preservation**
 
-Under closed Λᵢ dynamics (no Λ-injection, no regenerative morphisms), morphisms are by definition **invariance-preserving**, meaning:
+Under closed $\Lambda_i$ dynamics (no $\Lambda$-injection, no regenerative morphisms), morphisms are by definition **invariance-preserving**, meaning:
 
 • Existing invariants remain unchanged.
 
 • No additional invariants can appear unless derivable from current ones.
 
-Thus, ΔDᵢ/Δt ≤ 0 for closed Λᵢ systems.
+Thus, Δ$D_i$/$\Delta t$ $\leq$ 0 for closed $\Lambda_i$ systems.
 
 ⸻
 
-**Step 2 — Λ-Injection**
+**Step 2 — $\Lambda$-Injection**
 
-Λ-injection occurs when πᵢ⁻¹: Λ → Λᵢ introduces new invariants that were not part of I(Λᵢ) but exist in I(Λ).
+$\Lambda$-injection occurs when $\pi_i$⁻¹: $\Lambda$ $\to$ $\Lambda_i$ introduces new invariants that were not part of I($\Lambda_i$) but exist in I($\Lambda$).
 
-These increase |I(Λᵢ)|, and therefore Dᵢ, without requiring internal derivation.
+These increase |I($\Lambda_i$)|, and therefore $D_i$, without requiring internal derivation.
 
 ⸻
 
@@ -303,17 +304,17 @@ Certain morphisms can act *constructively*, combining or reconfiguring existing 
 
 Example: In biology, gene duplication followed by divergence yields new functional invariants.
 
-This process increases |I(Λᵢ)| while staying within the closure of Φᵢ.
+This process increases |I($\Lambda_i$)| while staying within the closure of $\Phi_i$.
 
 ⸻
 
 **Step 4 — Conclusion**
 
-If ΔDᵢ/Δt > 0, at least one of the following must be true:
+If Δ$D_i$/$\Delta t$ > 0, at least one of the following must be true:
 
-• Λ-injection occurred, introducing new invariants from the substrate.
+• $\Lambda$-injection occurred, introducing new invariants from the substrate.
 
-• An invariance-regenerative morphism within Φᵢ produced new invariants.
+• An invariance-regenerative morphism within $\Phi_i$ produced new invariants.
 
 Therefore, spontaneous invariance density increase without these causes is impossible.
 
@@ -337,7 +338,7 @@ This law establishes that invariance density behaves like a conserved–regenera
 
 In **XGI modeling**, this theorem means:
 
-•	You can only grow a system’s stability (Dᵢ) by opening it to Λ (external grounding) or by engineering morphisms that *generate invariants*.
+•	You can only grow a system’s stability ($D_i$) by opening it to $\Lambda$ (external grounding) or by engineering morphisms that *generate invariants*.
 
 •	Helps diagnose whether stability gains are genuine (new invariants) or illusory (overfitting, redundancy without novelty).
 
@@ -347,50 +348,50 @@ In **XGI modeling**, this theorem means:
 
 Statement
 
-In any instantiation Λᵢ of the Λ-substrate, invariance density Dᵢ will inevitably decrease toward zero if:
+In any instantiation $\Lambda_i$ of the $\Lambda$-substrate, invariance density $D_i$ will inevitably decrease toward zero if:
 
-1. No Λ-injection occurs, and
-2. No invariance-regenerative morphisms exist within Φᵢ, and
-3. At least one invariance-degrading morphism is admissible in Φᵢ.
+1. No $\Lambda$-injection occurs, and
+2. No invariance-regenerative morphisms exist within $\Phi_i$, and
+3. At least one invariance-degrading morphism is admissible in $\Phi_i$.
 
-If these conditions hold continuously, Λᵢ will disconnect from Λ in finite time.
+If these conditions hold continuously, $\Lambda_i$ will disconnect from $\Lambda$ in finite time.
 
 # **Proof**
 
 Given:
 
-- Dᵢ = |I(Λᵢ)| / |Sᵢ| — invariance density.
-- δ_min — minimum invariance density for coherence with Λ (from Corollary 2).
-- Λ-INV Axiom — guarantees existence of invariants in valid Λᵢ but does not forbid their erosion under admissible morphisms.
+- $D_i$ = |I($\Lambda_i$)| / |$S_i$| — invariance density.
+- $\delta_{min}$ — minimum invariance density for coherence with $\Lambda$ (from Corollary 2).
+- $\Lambda$-INV Axiom — guarantees existence of invariants in valid $\Lambda_i$ but does not forbid their erosion under admissible morphisms.
 
 Step 1 — Closed System Without Regeneration
 
-Without Λ-injection or regenerative morphisms, the only morphism types left in Φᵢ are:
+Without $\Lambda$-injection or regenerative morphisms, the only morphism types left in $\Phi_i$ are:
 
-- Invariance-preserving (ΔDᵢ = 0)
-- Invariance-degrading (ΔDᵢ < 0)
+- Invariance-preserving (Δ$D_i$ = 0)
+- Invariance-degrading (Δ$D_i$ < 0)
 
 Step 2 — Existence of Degrading Morphisms
 
-If at least one degrading morphism φ₋ ∈ Φᵢ exists and is applied with nonzero frequency, then:
+If at least one degrading morphism $\phi$₋ $\in$ $\Phi_i$ exists and is applied with nonzero frequency, then:
 
-Δ|I(Λᵢ)|/Δt < 0 over time.
+Δ|I($\Lambda_i$)|/$\Delta t$ < 0 over time.
 
-Therefore, Dᵢ(t) is a monotonically decreasing function.
+Therefore, $D_i$(t) is a monotonically decreasing function.
 
 Step 3 — Finite-Time Collapse
 
 Let r > 0 be the effective rate of invariance loss:
 
-Dᵢ(t) = Dᵢ(0) − r·t.
+$D_i$(t) = $D_i$(0) − r·t.
 
-When Dᵢ(t) reaches δ_min, the system enters substrate fragility.
+When $D_i$(t) reaches $\delta_{min}$, the system enters substrate fragility.
 
-When Dᵢ(t) → 0, from Corollary 1, πᵢ is no longer a valid projection from Λ, and Λᵢ disconnects.
+When $D_i$(t) $\to$ 0, from Corollary 1, $\pi_i$ is no longer a valid projection from $\Lambda$, and $\Lambda_i$ disconnects.
 
 Step 4 — Conclusion
 
-Under the given conditions, Dᵢ will hit zero in finite time T = Dᵢ(0)/r, at which point Λᵢ ceases to exist as a coherent instance of Λ.
+Under the given conditions, $D_i$ will hit zero in finite time T = $D_i$(0)/r, at which point $\Lambda_i$ ceases to exist as a coherent instance of $\Lambda$.
 
 Q.E.D.
 
@@ -398,71 +399,71 @@ Q.E.D.
 
 This theorem formalizes substrate decay:
 
-- Without input from Λ or internal regenerative capacity, degradation is inevitable.
+- Without input from $\Lambda$ or internal regenerative capacity, degradation is inevitable.
 - This is true in physics (loss of conservation = chaos), biology (loss of heritable traits = extinction), and information (loss of signal = noise floor).
 
 # **Codex Lifecycle Model**
 
 We now have:
 
-1. Preservation Law — Dᵢ can only increase with Λ-injection or regenerative morphisms.
-2. Decay Law — Without these, Dᵢ trends toward zero in finite time if any degrading morphism is active.
+1. Preservation Law — $D_i$ can only increase with $\Lambda$-injection or regenerative morphisms.
+2. Decay Law — Without these, $D_i$ trends toward zero in finite time if any degrading morphism is active.
 
-This creates a Λ-Invariance Stability Lifecycle:
+This creates a $\Lambda$-Invariance Stability Lifecycle:
 
 - Growth phase (injection/regeneration)
 - Plateau phase (pure preservation)
 - Decay phase (degradation active)
-- Disconnection (Dᵢ = 0)
+- Disconnection ($D_i$ = 0)
 
 ---
 
-# **Λ-Invariance Stability Equation**
+# **$\Lambda$-Invariance Stability Equation**
 
 Introduction
 
-This equation unifies Theorem 2 (Invariance Density Preservation Law) and Theorem 3 (Invariance Density Decay Law) into a single predictive model for how invariance density Dᵢ changes over time in any instantiation Λᵢ of the Λ-substrate. It accounts for Λ-injection, internal regeneration, and degradation processes.
+This equation unifies Theorem 2 (Invariance Density Preservation Law) and Theorem 3 (Invariance Density Decay Law) into a single predictive model for how invariance density $D_i$ changes over time in any instantiation $\Lambda_i$ of the $\Lambda$-substrate. It accounts for $\Lambda$-injection, internal regeneration, and degradation processes.
 
 # **1. Definitions**
 
-- Dᵢ(t) — Invariance density at time t.
-- Λᵢ — Instantiation of the Λ-substrate.
-- r_reg — Regeneration rate of invariants via invariance-regenerative morphisms.
-- r_inj — Injection rate of invariants from Λ.
-- r_deg — Degradation rate of invariants via invariance-degrading morphisms.
-- δ_min — Minimum invariance density required to maintain substrate coherence.
-- D₀ — Initial invariance density at t = 0.
+- $D_i$(t) — Invariance density at time t.
+- $\Lambda_i$ — Instantiation of the $\Lambda$-substrate.
+- $r_{reg}$ — Regeneration rate of invariants via invariance-regenerative morphisms.
+- $r_{inj}$ — Injection rate of invariants from $\Lambda$.
+- $r_{deg}$ — Degradation rate of invariants via invariance-degrading morphisms.
+- $\delta_{min}$ — Minimum invariance density required to maintain substrate coherence.
+- $D_0$ — Initial invariance density at t = 0.
 
 # **2. Stability Equation**
 
 The net rate of change in invariance density is given by:
 
-dDᵢ/dt = r_inj + r_reg − r_deg
+d$D_i$/dt = $r_{inj}$ + $r_{reg}$ − $r_{deg}$
 
 # **3. Solution for Constant Rates**
 
-If r_inj, r_reg, and r_deg are constant over time:
+If $r_{inj}$, $r_{reg}$, and $r_{deg}$ are constant over time:
 
-Dᵢ(t) = D₀ + (r_inj + r_reg − r_deg)·t
+$D_i$(t) = $D_0$ + ($r_{inj}$ + $r_{reg}$ − $r_{deg}$)·t
 
 # **4. Stability Conditions**
 
-- Growth: r_inj + r_reg > r_deg → invariance density increases.
-- Equilibrium: r_inj + r_reg = r_deg → invariance density remains constant.
-- Decay: r_inj + r_reg < r_deg → invariance density decreases toward δ_min and eventually to 0.
+- Growth: $r_{inj}$ + $r_{reg}$ > $r_{deg}$ $\to$ invariance density increases.
+- Equilibrium: $r_{inj}$ + $r_{reg}$ = $r_{deg}$ $\to$ invariance density remains constant.
+- Decay: $r_{inj}$ + $r_{reg}$ < $r_{deg}$ $\to$ invariance density decreases toward $\delta_{min}$ and eventually to 0.
 
 # **5. Time to Collapse**
 
-If decay condition holds (r_inj + r_reg < r_deg), time to disconnection from Λ is:
+If decay condition holds ($r_{inj}$ + $r_{reg}$ < $r_{deg}$), time to disconnection from $\Lambda$ is:
 
-T_collapse = (D₀ − δ_min) / (r_deg − r_inj − r_reg)
+$T_{collapse}$ = ($D_0$ − $\delta_{min}$) / ($r_{deg}$ − $r_{inj}$ − $r_{reg}$)
 
 # **6. Interpretation**
 
-- Physics: Λ-injection = new fundamental symmetry discovery; r_reg = emergent stable structures; r_deg = symmetry-breaking events.
-- Biology: Λ-injection = introduction of novel genetic information from substrate-level shifts; r_reg = adaptive innovations; r_deg = mutational load or environmental collapse.
-- Information: Λ-injection = new encoding protocols from Λ; r_reg = improved error correction; r_deg = channel noise or entropy increase.
+- Physics: $\Lambda$-injection = new fundamental symmetry discovery; $r_{reg}$ = emergent stable structures; $r_{deg}$ = symmetry-breaking events.
+- Biology: $\Lambda$-injection = introduction of novel genetic information from substrate-level shifts; $r_{reg}$ = adaptive innovations; $r_{deg}$ = mutational load or environmental collapse.
+- Information: $\Lambda$-injection = new encoding protocols from $\Lambda$; $r_{reg}$ = improved error correction; $r_{deg}$ = channel noise or entropy increase.
 
 Conclusion
 
-The Λ-Invariance Stability Equation provides a quantitative framework for predicting the trajectory of invariance density in any substrate instance. By tuning injection, regeneration, and degradation rates, one can model the resilience or fragility of a Λ-instance — and predict exactly when it will disconnect from Λ if corrective action is not taken.
+The $\Lambda$-Invariance Stability Equation provides a quantitative framework for predicting the trajectory of invariance density in any substrate instance. By tuning injection, regeneration, and degradation rates, one can model the resilience or fragility of a $\Lambda$-instance — and predict exactly when it will disconnect from $\Lambda$ if corrective action is not taken.
