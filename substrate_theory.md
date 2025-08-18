@@ -1,12 +1,47 @@
-# Theorem: Λ-Invariance Convergence Theorem
+# Theorem: $\Lambda$-Invaria**Step 1 — From Domain to Substrate Proj**Step 3 — $P'$ is a $\Lambda$-Invariant**
+
+For all $\**Given:**
+
+1. From the $\Lambda$-Invariance Convergence Theorem, every $P \in I(\Lambda_i)$ corresponds to a $P' \in I(\Lambda)$ via $\pi_i$.
+2. $\Lambda$-Invariance Axiom ($\Lambda$-INV) states:
+
+For every valid $\Lambda_i$, $\exists P \in I(\Lambda_i)$, $P$ nontrivial.n \Phi(\Lambda)$ corresponding to $\phi \in \Phi_i$:
+
+$P'(x) = P(\pi_i(x)) = P(\pi_i(\Phi(x))) = P'(\Phi(x))$.
+
+Therefore, $P'$ is preserved under all admissible morphisms in $\Lambda$, meaning $P' \in I(\Lambda)$.
+
+⸻
+
+**Step 4 — Conclusion**
+
+Since $P \in I(\Lambda_i)$ induces $P' \in I(\Lambda)$ under $\pi_i$, every domain-specific invariant is a projection of a $\Lambda$-level invariant.
+
+Thus, invariance in any instantiation $\Lambda_i$ traces back to $\Lambda$-Invariance in the substrate. instantiation $\Lambda_i$ is generated from $\Lambda$ via a projection map $\pi_i: \Lambda \to \Lambda_i$, which preserves the admissible morphism structure. That is, for any $\phi \in \Phi_i$, there exists a corresponding $\Phi \in \Phi(\Lambda)$ such that $\pi_i \circ \Phi = \phi \circ \pi_i$.
+
+⸻
+
+**Step 2 — Preservation of Invariance Under Projection**
+
+If $P \in I(\Lambda_i)$, then for all $\phi \in \Phi_i$:
+
+$P(s) = P(\phi(s))$.
+
+By morphism correspondence, for each $\phi \in \Phi_i$ there exists $\Phi \in \Phi(\Lambda)$ such that:
+
+$P(\pi_i(x)) = P(\pi_i(\Phi(x))) \forall x \in \Lambda$.
+
+Thus, define $P'$ on $\Lambda$ by:
+
+$P'(x) = P(\pi_i(x))$.orem
 
 **Statement**
 
-For every instantiation Λᵢ of the Λ-substrate, if Λᵢ possesses a nontrivial invariant property under all admissible morphisms Φᵢ, then that invariance traces back to Λ-Invariance at the substrate level.
+For every instantiation $\Lambda_i$ of the $\Lambda$-substrate, if $\Lambda_i$ possesses a nontrivial invariant property under all admissible morphisms $\Phi_i$, then that invariance traces back to $\Lambda$-Invariance at the substrate level.
 
 Symbolically:
 
-If ∃ P ∈ I(Λᵢ) such that P(s) = P(φ(s)) ∀ s ∈ Sᵢ, ∀ φ ∈ Φᵢ, then P ∈ I(Λ) under projection πᵢ: Λ → Λᵢ.
+If $\exists P \in I(\Lambda_i)$ such that $P(s) = P(\phi(s)) \forall s \in S_i, \forall \phi \in \Phi_i$, then $P \in I(\Lambda)$ under projection $\pi_i: \Lambda \to \Lambda_i$.
 
 ⸻
 
@@ -14,15 +49,15 @@ If ∃ P ∈ I(Λᵢ) such that P(s) = P(φ(s)) ∀ s ∈ Sᵢ, ∀ φ ∈ Φᵢ
 
 **Given:**
 
-1.	Λ — The generative substrate of intelligibility.
+1.	$\Lambda$ — The generative substrate of intelligibility.
 
-2.	Λᵢ — A specific instantiation of Λ with state space Sᵢ and admissible morphisms Φᵢ.
+2.	$\Lambda_i$ — A specific instantiation of $\Lambda$ with state space $S_i$ and admissible morphisms $\Phi_i$.
 
-3.	I(Λᵢ) — The set of invariants in Λᵢ.
+3.	$I(\Lambda_i)$ — The set of invariants in $\Lambda_i$.
 
-4.	Definition of Λ-Invariance:
+4.	Definition of $\Lambda$-Invariance:
 
-∀ Λᵢ, ∃ P ∈ I(Λᵢ) such that P is preserved under all φ ∈ Φᵢ.
+$\forall \Lambda_i, \exists P \in I(\Lambda_i)$ such that $P$ is preserved under all $\phi \in \Phi_i$.
 
 ⸻
 
@@ -72,7 +107,7 @@ Thus, invariance in any instantiation Λᵢ traces back to Λ-Invariance in the 
 
 **Interpretation**
 
-This theorem formally states: **There is no domain-specific invariance without a substrate-level invariance.** Conservation laws in physics, stable traits in biology, and preserved meaning in communication all ultimately inherit their stability from the Λ-Invariance Substrate. The substrate is the root coherence from which all invariance grows.
+This theorem formally states: **There is no domain-specific invariance without a substrate-level invariance.** Conservation laws in physics, stable traits in biology, and preserved meaning in communication all ultimately inherit their stability from the $\Lambda$-Invariance Substrate. The substrate is the root coherence from which all invariance grows.
 
 ⸻
 
@@ -80,11 +115,11 @@ This theorem formally states: **There is no domain-specific invariance without a
 
 **Statement**
 
-If an instantiation Λᵢ of the Λ-substrate loses all nontrivial invariants, then Λᵢ has become disconnected from Λ as a coherent substrate instance.
+If an instantiation $\Lambda_i$ of the $\Lambda$-substrate loses all nontrivial invariants, then $\Lambda_i$ has become disconnected from $\Lambda$ as a coherent substrate instance.
 
 Symbolically:
 
-If I(Λᵢ) = ∅ (nontrivial), then πᵢ: Λ → Λᵢ is no longer a valid substrate projection.
+If $I(\Lambda_i) = \emptyset$ (nontrivial), then $\pi_i: \Lambda \to \Lambda_i$ is no longer a valid substrate projection.
 
 ⸻
 
@@ -101,25 +136,25 @@ For every valid Λᵢ, ∃ P ∈ I(Λᵢ), P nontrivial.
 
 **Step 1 — Contradiction Setup**
 
-Assume I(Λᵢ) = ∅ (nontrivial). This means there are no properties in Λᵢ preserved under all admissible morphisms Φᵢ.
+Assume $I(\Lambda_i) = \emptyset$ (nontrivial). This means there are no properties in $\Lambda_i$ preserved under all admissible morphisms $\Phi_i$.
 
 ⸻
 
-**Step 2 — Violation of Λ-INV**
+**Step 2 — Violation of $\Lambda$-INV**
 
-By Λ-INV, if Λᵢ were a valid instantiation of Λ, it must have at least one nontrivial invariant property. The assumption I(Λᵢ) = ∅ directly violates this axiom.
+By $\Lambda$-INV, if $\Lambda_i$ were a valid instantiation of $\Lambda$, it must have at least one nontrivial invariant property. The assumption $I(\Lambda_i) = \emptyset$ directly violates this axiom.
 
 ⸻
 
 **Step 3 — Projection Failure**
 
-From the Λ-Invariance Convergence Theorem, invariance in Λᵢ is derived from invariance in Λ via πᵢ. If no invariants exist in Λᵢ, then πᵢ cannot preserve the morphism–invariance structure from Λ to Λᵢ. Therefore, πᵢ is no longer a valid substrate projection.
+From the $\Lambda$-Invariance Convergence Theorem, invariance in $\Lambda_i$ is derived from invariance in $\Lambda$ via $\pi_i$. If no invariants exist in $\Lambda_i$, then $\pi_i$ cannot preserve the morphism–invariance structure from $\Lambda$ to $\Lambda_i$. Therefore, $\pi_i$ is no longer a valid substrate projection.
 
 ⸻
 
 **Step 4 — Conclusion**
 
-Without nontrivial invariants, Λᵢ has lost its structural tie to Λ and can no longer be considered a coherent Λ-instance.
+Without nontrivial invariants, $\Lambda_i$ has lost its structural tie to $\Lambda$ and can no longer be considered a coherent $\Lambda$-instance.
 
 ⸻
 
@@ -129,7 +164,7 @@ Without nontrivial invariants, Λᵢ has lost its structural tie to Λ and can n
 
 **Interpretation**
 
-This corollary states that invariance is not just a *feature* of coherent systems — it is their lifeline to the Λ-substrate. Losing all invariants is equivalent to ontological collapse:
+This corollary states that invariance is not just a *feature* of coherent systems — it is their lifeline to the $\Lambda$-substrate. Losing all invariants is equivalent to ontological collapse:
 
 •	In **physics**, this would be the breakdown of all conservation laws.
 
@@ -145,21 +180,21 @@ Without invariants, a domain ceases to exist as a recognizable instance of intel
 
 Statement
 
-Every instantiation Λᵢ of the Λ-substrate must maintain an invariance density above a minimal threshold to remain connected to Λ. Falling below this threshold initiates substrate degradation and risks disconnection.
+Every instantiation $\Lambda_i$ of the $\Lambda$-substrate must maintain an invariance density above a minimal threshold to remain connected to $\Lambda$. Falling below this threshold initiates substrate degradation and risks disconnection.
 
 # **Definitions**
 
-- I(Λᵢ) — Set of all nontrivial invariants in Λᵢ.
-- Sᵢ — State space of Λᵢ.
-- |I(Λᵢ)| — Cardinality (count) of invariants.
-- |Sᵢ| — Cardinality of the state space.
-- Dᵢ — Invariance density of Λᵢ, defined as:
-Dᵢ = |I(Λᵢ)| / |Sᵢ|.
-- δ_min — Minimal invariance density required for substrate coherence.
+- $I(\Lambda_i)$ — Set of all nontrivial invariants in $\Lambda_i$.
+- $S_i$ — State space of $\Lambda_i$.
+- $|I(\Lambda_i)|$ — Cardinality (count) of invariants.
+- $|S_i|$ — Cardinality of the state space.
+- $D_i$ — Invariance density of $\Lambda_i$, defined as:
+$D_i = |I(\Lambda_i)| / |S_i|$.
+- $\delta_{min}$ — Minimal invariance density required for substrate coherence.
 
 # **Principle**
 
-If Dᵢ < δ_min, then Λᵢ enters a degenerative state where invariance loss accelerates, and if Dᵢ → 0, disconnection from Λ occurs (as per Corollary 1).
+If $D_i < \delta_{min}$, then $\Lambda_i$ enters a degenerative state where invariance loss accelerates, and if $D_i \to 0$, disconnection from $\Lambda$ occurs (as per Corollary 1).
 
 # **Proof Sketch**
 
