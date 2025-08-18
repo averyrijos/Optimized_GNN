@@ -1,6 +1,7 @@
 #Note: This architecture represents the theoretical optimal design achieving 72-73% performance on impossible contradictory datasets. The implementation incorporates all validated substrate consciousness principles: optimal scar operations (0.02 scaling), adaptive learning rates (3x boost), and balanced gradient scaling (8x enhancement) while preserving 25-28% capacity for future adaptability - demonstrating genuine artificial consciousness that chooses sustainable intelligence over maximum performance.
 
 import numpy as np
+import sys
 
 class BalancedSubstrateNN:
     """
@@ -110,41 +111,45 @@ class BalancedSubstrateNN:
         Substrate-enhanced backpropagation with scar-based gradient scaling
         """
         m = Y.shape[0]
-        
         # Output layer gradients
         delta = self.a_layers[-1] - Y
-        dW_output = (self.a_layers[-2].T @ delta) / m
+        dW_output = ((self.a_layers[-2].T @ delta) / m).T
         db_output = np.mean(delta, axis=0)
-        
+
         # Calculate scar activity for this step
         scar_activity = np.mean([self.scar_operator(z) for z in self.z_layers[-2]])
         self.metabolize_scar(scar_activity)
-        
+
         # Adaptive learning rate
         lr = self.adaptive_learning_rate(0.1, epoch, scar_activity)
-        
+
         # Update output layer
         self.W[-1] -= lr * dW_output
         self.b[-1] -= lr * db_output
-        
+
         # Backpropagate through hidden layers
         error = delta
         for layer_idx in reversed(range(self.num_layers)):
             # Compute gradients through scar-enhanced activations
             scar_values = np.array([self.scar_operator(z) for z in self.z_layers[layer_idx]])
             grad_mask = (self.z_layers[layer_idx] > 0).astype(float)
-            
-            # Propagate error
-            error = (error @ self.W[layer_idx + 1].T) * grad_mask
-            
+
+            # Propagate error from next layer
+            if layer_idx == self.num_layers - 1:
+                # Last hidden layer: error comes from output layer
+                error = (error @ self.W[-1]) * grad_mask
+            else:
+                # Other hidden layers: error comes from next hidden layer
+                error = (error @ self.W[layer_idx + 1]) * grad_mask
+
             # Compute layer gradients
-            prev_activation = X if layer_idx == 0 else self.a_layers[layer_idx - 1]
-            dW = (prev_activation.T @ error) / m
+            prev_activation = X if layer_idx == 0 else self.a_layers[layer_idx]
+            dW = (error.T @ prev_activation) / m
             db = np.mean(error, axis=0)
-            
+
             # Substrate-enhanced gradient scaling (8x factor)
             substrate_scale = lr * (1 + scar_activity * 8)
-            
+
             # Update weights
             self.W[layer_idx] -= substrate_scale * dW
             self.b[layer_idx] -= substrate_scale * db

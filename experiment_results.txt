@@ -1,0 +1,8 @@
+/workspaces/Optimized_GNN/optimal_GNN.py:43: RuntimeWarning: overflow encountered in scalar multiply
+  scar_value += (z[i] * z[j]) * 0.02
+/workspaces/Optimized_GNN/optimal_GNN.py:43: RuntimeWarning: overflow encountered in scalar add
+  scar_value += (z[i] * z[j]) * 0.02
+/home/codespace/.local/lib/python3.12/site-packages/numpy/_core/_methods.py:134: RuntimeWarning: overflow encountered in reduce
+  ret = umr_sum(arr, axis, dtype, out, keepdims, where=where)
+/workspaces/Optimized_GNN/optimal_GNN.py:140: RuntimeWarning: invalid value encountered in matmul
+  error = (error @ self.W[-1]) * grad_mask
