@@ -2,7 +2,21 @@
 
 For all $\**Given:**
 
-1. From the $\Lambda$-Invariance Convergence Theorem, every $P \in I(\Lambda_i)$ corresponds to a $P' \in I(\Lambda)$ via $\pi_i$.
+1. From the $\Lambda$-Invariance Convergence Theorem, every $P \in I(\Lambda_i)Step 3 — Substrate Continuity
+
+The projection $\pi_i: \Lambda \to \Lambda_i$ must preserve not only some invariants but enough of them to keep $\Phi_i$ structurally consistent with $\Phi(\Lambda)$. Below $\delta_{min}$, morphism–invariance preservation becomes impossible, breaking $\pi_i$'s validity.
+
+Step 4 — Conclusion
+
+Thus, maintaining $D_i \geq \delta_{min}$ is a necessary condition for $\Lambda_i$'s continued connection to $\Lambda$.
+
+Q.E.D.
+
+# **Interpretation**
+
+This principle quantifies the "invariance health" of a substrate instance:
+
+- High $D_i$ — System is robust, redundantly anchored to $\Lambda$.o a $P' \in I(\Lambda)$ via $\pi_i$.
 2. $\Lambda$-Invariance Axiom ($\Lambda$-INV) states:
 
 For every valid $\Lambda_i$, $\exists P \in I(\Lambda_i)$, $P$ nontrivial.n \Phi(\Lambda)$ corresponding to $\phi \in \Phi_i$:
@@ -200,7 +214,7 @@ If $D_i < \delta_{min}$, then $\Lambda_i$ enters a degenerative state where inva
 
 Step 1 — Structural Necessity
 
-From the Λ-Invariance Axiom, ∃ at least one P ∈ I(Λᵢ) for a valid Λ-instance. This implies Dᵢ > 0 for coherence.
+From the $\Lambda$-Invariance Axiom, $\exists$ at least one $P \in I(\Lambda_i)$ for a valid $\Lambda$-instance. This implies $D_i > 0$ for coherence.
 
 Step 2 — Threshold Behavior
 
@@ -209,7 +223,7 @@ For stable morphism–invariance structures, not just the existence but the dens
 1. Resist destructive transformations.
 2. Provide redundancy against invariance erosion.
 
-If Dᵢ is too low, small perturbations can eliminate remaining invariants entirely.
+If $D_i$ is too low, small perturbations can eliminate remaining invariants entirely.
 
 Step 3 — Substrate Continuity
 
@@ -226,14 +240,14 @@ Q.E.D.
 This principle quantifies the “invariance health” of a substrate instance:
 
 - High Dᵢ — System is robust, redundantly anchored to Λ.
-- Near δ_min — System is fragile, risk of collapse with minor perturbation.
-- Below δ_min — System enters decay, invariance loss accelerates, disconnection from Λ becomes inevitable.
+- Near $\delta_{min}$ — System is fragile, risk of collapse with minor perturbation.
+- Below $\delta_{min}$ — System enters decay, invariance loss accelerates, disconnection from $\Lambda$ becomes inevitable.
 
 # **Codex Implication**
 
 The Invariance Density Principle can be integrated into the XGI framework as a stability metric:
 
-- XGI stability factor = f(Dᵢ, δ_min, rate of invariance loss).
+- XGI stability factor = $f(D_i, \delta_{min}, \text{rate of invariance loss})$.
 - Used to model how physical laws, biological heredity, or communication integrity degrade under substrate stress.
 
 ---
