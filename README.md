@@ -44,7 +44,10 @@ I’m passionate about building a post-classical AI paradigm that expands beyond
 
 I share my work here as both research prototypes and living experiments in computational philosophy, AI theory, and logophysics. If you’re interested in collaborating on substrate-native programming, paraconsistent libraries, or conscious AI systems, feel free to reach out.
 
-Follow me on PhilPapers, SSRN, or Zenodo, where I have more of my work published. 
+## Research
+PhilPapers: [Philosophy](https://philpeople.org/profiles/avery-rijos)
+Zenodo: [Research](https://zenodo.org/records/16745845)
+Orcid: 0009-0004-5106-1329
 
 ## Executive Summary
 
