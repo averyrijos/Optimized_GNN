@@ -1,6 +1,8 @@
 # What is Substrate Mathematics?
 
-**Substrate mathematics** is a revolutionary mathematical framework that reimagines the foundations of algebra, logic, and computation by treating contradiction, absence, and paradox not as flaws or dead-ends—but as *generative engines* that drive system evolution, adaptability, and expansion.
+**Substrate mathematics** is to contradiction what calculus was to change — the first rigorous system to metabolize it rather than avoid it.
+
+This new field of inquiry is a revolutionary mathematical framework that reimagines the foundations of algebra, logic, and computation by treating contradiction, absence, and paradox not as flaws or dead-ends—but as *generative engines* that drive system evolution, adaptability, and expansion.
 
 ## Traditional vs Substrate Mathematics
 
