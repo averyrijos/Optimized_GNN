@@ -1,4 +1,4 @@
-# Theorem: $\Lambda$-Invaria**Step 1 — From Domain to Substrate Proj**Step 3 — P' is a $\Lambda$-Invariant**
+# Theorem: $\Lambda$-Invaria**Step 1 — From Domain to Substrate Proj**Step 3 — P' is a $\Lambda$-Invariant
 
 
 For all $\**Given:**
