@@ -1,4 +1,4 @@
-# Theorem: $\Lambda$-Invaria**Step 1 — From Domain to Substrate Proj**Step 3 — P' is a $\Lambda$-Invariant
+# Theorem: Substrate-Level Origin of Domain Invariance
 
 © Avery Rijos and PROMETHIVM LLC. All rights reserved. PROMETHIVM™ is a trademark of PROMETHIVM LLC.
 
