@@ -1,7 +1,7 @@
-# Theorem: $\Lambda$-Invaria**Step 1 — From Domain to Substrate Proj**Step 3 — P' is a $\Lambda$-Invariant**
+# Theorem: $\Lambda$-Invaria**Step 1 — From Domain to Substrate Proj**Step 3 — P' is a $\Lambda$-Invariant
 
 
-For all $\**Given:**
+For all $\**Given:**$
 
 1. From the $\Lambda$-Invariance Convergence Theorem, every $P \in I(\Lambda_i)Step 3 — Substrate Continuity
 
@@ -17,14 +17,14 @@ Q.E.D.
 
 This principle quantifies the "invariance health" of a substrate instance:
 
-- High $D_i$ — System is robust, redundantly anchored to $\Lambda$.o a $P'$ \in I(\Lambda)$ via $\pi_i$.
+- High $D_i$ — System is robust, redundantly anchored to $\Lambda$.o a $P'$ \in I$(\Lambda)$ via $\pi_i$.
 2. $\Lambda$-Invariance Axiom ($\Lambda$-INV) states:
 
-For every valid $\Lambda_i$, $\exists P \in I(\Lambda_i)$, $P$ nontrivial, and for every $\phi \in \Phi_i$, there exists a corresponding $\Phi \in \Phi(\Lambda)$:
+For every valid $\Lambda_i$, $\exists P \in I(\Lambda_i)$, $P$ nontrivial.n \Phi(\Lambda)$ corresponding to $\phi \in \Phi_i$:
 
-$P'(x) = P(\pi_i(x)) = P(\pi_i(\Phi(x))) = P'(\Phi(x))$.
+$P'$(x) = P(\pi_i(x)) = P(\pi_i(\Phi(x))) = $P'$(\Phi(x))$.
 
-Therefore, $P'$ is preserved under all admissible morphisms in $\Lambda$, meaning $P' \in I(\Lambda)$.
+Therefore, $P'$ is preserved under all admissible morphisms in $\Lambda$, meaning $P'$ \in I(\Lambda)$.
 
 ⸻
 
