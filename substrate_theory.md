@@ -1,5 +1,13 @@
 # Theorem: $\Lambda$-Invaria**Step 1 — From Domain to Substrate Proj**Step 3 — P' is a $\Lambda$-Invariant
 
+© Avery Rijos and PROMETHIVM LLC. All rights reserved. PROMETHIVM™ is a trademark of PROMETHIVM LLC.
+
+> **Copyright Notice:**  
+>  
+> This document may be used for academic and noncommercial purposes without restriction. Commercial use requires explicit permission from the copyright holders.
+
+---
+
 ## Introduction
 
 This document develops a formal substrate theory of invariance, establishing how domain-specific invariants arise from, and are sustained by, a generative substrate $\Lambda$. It presents a sequence of theorems and corollaries that rigorously connect invariance in any instantiation $\Lambda_i$ to substrate-level properties, quantifies the conditions for substrate coherence, and models the lifecycle of invariance density. The framework applies broadly to physics, biology, and information systems, providing a unified mathematical language for understanding stability, decay, and regeneration of invariants across domains.
