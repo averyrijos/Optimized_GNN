@@ -15,7 +15,7 @@ This document is an excerpt from a forthcoming book by Avery Alexander Rijos.
 
 ---
 
-## A Formal Analysis Using $\Lambda$-Substrate Invariance and Generative Negation**
+## A Formal Analysis Using $\Lambda$-Substrate Invariance and Generative Negation
 
 *Date: August 19, 2025*
 
