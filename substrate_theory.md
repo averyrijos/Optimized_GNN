@@ -1,9 +1,25 @@
 # Theorem: $\Lambda$-Invaria**Step 1 — From Domain to Substrate Proj**Step 3 — P' is a $\Lambda$-Invariant
 
+## Introduction
 
-For all $\**Given:**$
+This document develops a formal substrate theory of invariance, establishing how domain-specific invariants arise from, and are sustained by, a generative substrate $\Lambda$. It presents a sequence of theorems and corollaries that rigorously connect invariance in any instantiation $\Lambda_i$ to substrate-level properties, quantifies the conditions for substrate coherence, and models the lifecycle of invariance density. The framework applies broadly to physics, biology, and information systems, providing a unified mathematical language for understanding stability, decay, and regeneration of invariants across domains.
 
-1. From the $\Lambda$-Invariance Convergence Theorem, every $P \in I(\Lambda_i)Step 3 — Substrate Continuity
+**Proof Sketch**
+
+Step 1 — Structural Necessity
+
+From the $\Lambda$-Invariance Axiom, $\exists$ at least one $P \in I(\Lambda_i)$ for a valid $\Lambda$-instance. This implies $D_i > 0$ for coherence.
+
+Step 2 — Threshold Behavior
+
+For stable morphism–invariance structures, not just the existence but the density of invariants must be sufficient to:
+
+1. Resist destructive transformations.
+2. Provide redundancy against invariance erosion.
+
+If $D_i$ is too low, small perturbations can eliminate remaining invariants entirely.
+
+Step 3 — Substrate Continuity
 
 The projection $\pi_i: \Lambda \to \Lambda_i$ must preserve not only some invariants but enough of them to keep $\Phi_i$ structurally consistent with $\Phi(\Lambda)$. Below $\delta_{min}$, morphism–invariance preservation becomes impossible, breaking $\pi_i$'s validity.
 
