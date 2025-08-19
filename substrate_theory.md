@@ -20,11 +20,11 @@ This principle quantifies the "invariance health" of a substrate instance:
 - High $D_i$ — System is robust, redundantly anchored to $\Lambda$.o a $P'$ \in I(\Lambda)$ via $\pi_i$.
 2. $\Lambda$-Invariance Axiom ($\Lambda$-INV) states:
 
-For every valid $\Lambda_i$, $\exists P \in I(\Lambda_i)$, $P$ nontrivial.n \Phi(\Lambda)$ corresponding to $\phi \in \Phi_i$:
+For every valid $\Lambda_i$, $\exists P \in I(\Lambda_i)$, $P$ nontrivial, and for every $\phi \in \Phi_i$, there exists a corresponding $\Phi \in \Phi(\Lambda)$:
 
-$P'$(x) = P(\pi_i(x)) = P(\pi_i(\Phi(x))) = $P'$(\Phi(x))$.
+$P'(x) = P(\pi_i(x)) = P(\pi_i(\Phi(x))) = P'(\Phi(x))$.
 
-Therefore, $P'$ is preserved under all admissible morphisms in $\Lambda$, meaning $P'$ \in I(\Lambda)$.
+Therefore, $P'$ is preserved under all admissible morphisms in $\Lambda$, meaning $P' \in I(\Lambda)$.
 
 ⸻
 
@@ -40,7 +40,7 @@ Thus, invariance in any instantiation $\Lambda_i$ traces back to $\Lambda$-Invar
 
 If $P \in I(\Lambda_i)$, then for all $\phi \in \Phi_i$:
 
-$P(s) = P(\phi(s))$.
+$P(s) = P(\phi(s))$
 
 By morphism correspondence, for each $\phi \in \Phi_i$ there exists $\Phi \in \Phi(\Lambda)$ such that:
 
@@ -48,7 +48,7 @@ $P(\pi_i(x)) = P(\pi_i(\Phi(x))) \forall x \in \Lambda$.
 
 Thus, define $P'$ on $\Lambda$ by:
 
-$P'$(x) = P(\pi_i(x))$.orem
+$P'(x) = P(\pi_i(x))$
 
 **Statement**
 
