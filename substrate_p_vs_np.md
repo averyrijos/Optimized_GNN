@@ -9,6 +9,10 @@
 
 All content in this document is © Avery Alexander Rijos and The Promethium Laboratory for Generative Systems. All rights reserved. This work is open for academic and noncommercial purposes. Use for commercial purposes requires explicit written permission.
 
+Email: averyarijos@outlook.com
+
+This document is an excerpt from a forthcoming book by Avery Alexander Rijos.
+
 ---
 
 ## A Formal Analysis Using $\Lambda$-Substrate Invariance and Generative Negation**
