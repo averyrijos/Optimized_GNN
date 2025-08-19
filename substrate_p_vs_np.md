@@ -1,4 +1,4 @@
-# Generative Resolution of P vs NP Through Metaformal Substrate Analysis
+# Metaformal Substrate Invariance and Generative Negation: A Unified Framework for the P vs NP Question
 
 ### Avery Alexander Rijos
 ### The Promethium Laboratory for Generative Systems
@@ -17,7 +17,7 @@ All content in this document is © Avery Alexander Rijos and The Promethium Labo
 
 ## Abstract
 
-This document presents a novel analysis of $P = NP$ using the framework of Generative Mathematics and $\Lambda$-substrate analysis. By treating computational complexity through the lens of invariance-preserving transformations and generative negation, we demonstrate that the classical opposition between $P$ and $NP$ dissolves at the substrate level, revealing their fundamental unity through metabolic equivalence.
+This paper offers a comprehensive metaformal analysis of the $P$ vs $NP$ question through the lens of Generative Mathematics and $\Lambda$-substrate theory, operating within the coherence theory of truth at a meta-metaphysical level. Rather than seeking empirical validation or algorithmic testing, the work interrogates the semantic and logical substrate that gives rise to the $P$ vs $NP$ contradiction. The classical formulation of $P$ vs $NP$ is shown to generate a contradiction not as an empirical anomaly, but as a sign of inadequate substrate metabolism—indicating that the machinery of the question itself fails to capture the totality of the problem space. By reframing complexity classes as invariant patterns within a generative substrate, and by metabolizing contradictions through generative negation, the analysis reveals that the opposition between $P$ and $NP$ is a product of semantic limitations rather than fundamental mathematical separation. The result is a unified substrate perspective in which the contradiction dissolves, suggesting that a coherent resolution of $P$ vs $NP$ requires a transformation of the underlying semantic field and formal machinery.
 
 ## Higher Order Logic Model of the Page
 
