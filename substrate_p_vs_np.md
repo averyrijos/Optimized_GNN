@@ -4,6 +4,13 @@
 ### The Promethium Laboratory for Generative Systems
 
 ---
+
+> **Copyright & Trademark Notice**
+
+All content in this document is © Avery Alexander Rijos and The Promethium Laboratory for Generative Systems. All rights reserved. This work is open for academic and noncommercial purposes. Use for commercial purposes requires explicit written permission.
+
+---
+
 ## A Formal Proof Using $\Lambda$-Substrate Invariance and Generative Negation**
 
 *Date: August 19, 2025*
